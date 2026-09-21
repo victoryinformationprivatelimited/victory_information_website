@@ -27,7 +27,7 @@ export const siteConfig = {
   name: "Victory Information (Pvt) Ltd",
   shortName: "Victory Information",
   tagline: "Powerful and bold through high-end software solutions.",
-  phone1: "+94 11 711 0600",
+  phone1: "+94 767 444 999",
   phone2: "+94 767 444 999",
   email1: "info@victoryinformation.lk",
   email2: "sales@victoryinformation.lk",
